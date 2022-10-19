@@ -1,0 +1,11 @@
+D:\程式專案練習\CharEdit_Project\CharEdit_Project\bin\Debug\CharEdit_Project.exe.config
+D:\程式專案練習\CharEdit_Project\CharEdit_Project\bin\Debug\CharEdit_Project.exe
+D:\程式專案練習\CharEdit_Project\CharEdit_Project\bin\Debug\CharEdit_Project.pdb
+D:\程式專案練習\CharEdit_Project\CharEdit_Project\obj\Debug\CharEdit_Project.csproj.AssemblyReference.cache
+D:\程式專案練習\CharEdit_Project\CharEdit_Project\obj\Debug\CharEdit_Project.csproj.SuggestedBindingRedirects.cache
+D:\程式專案練習\CharEdit_Project\CharEdit_Project\obj\Debug\CharEdit_Project.Form1.resources
+D:\程式專案練習\CharEdit_Project\CharEdit_Project\obj\Debug\CharEdit_Project.Properties.Resources.resources
+D:\程式專案練習\CharEdit_Project\CharEdit_Project\obj\Debug\CharEdit_Project.csproj.GenerateResource.cache
+D:\程式專案練習\CharEdit_Project\CharEdit_Project\obj\Debug\CharEdit_Project.csproj.CoreCompileInputs.cache
+D:\程式專案練習\CharEdit_Project\CharEdit_Project\obj\Debug\CharEdit_Project.exe
+D:\程式專案練習\CharEdit_Project\CharEdit_Project\obj\Debug\CharEdit_Project.pdb
